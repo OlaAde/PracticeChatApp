@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "56666580198",
+    "firebase_url": "https://testchatapp-cd62f.firebaseio.com",
+    "project_id": "testchatapp-cd62f",
+    "storage_bucket": "testchatapp-cd62f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:56666580198:android:5771e49fbfd905dd",
+        "android_client_info": {
+          "package_name": "com.example.adeogo.practicechatapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "56666580198-4v8rmqr5dsfl9orqnhmsu1tk1dc2i69b.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.adeogo.practicechatapp",
+            "certificate_hash": "e2eafdf1359b9023710dcc17e34d2e3d143d5cc6"
+          }
+        },
+        {
+          "client_id": "56666580198-g77c7vbvh1q8c9321dhvv04cg1p4jp6p.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBeCo9mMzhNkXFVqEPAe8wW7PmSCeO4qGs"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "56666580198-g77c7vbvh1q8c9321dhvv04cg1p4jp6p.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
